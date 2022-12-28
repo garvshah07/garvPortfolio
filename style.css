@@ -87,6 +87,7 @@ li a:hover {
     font-size: 5rem;
     flex: 1 1 50%;
     line-height: 0.9em;
+    text-decoration: none;
 }
 
 #name {
@@ -351,7 +352,7 @@ span {
     align-items: center;
     height: 70px;
     width: 100%;
-    background-color: rgb(255, 255, 255);
+    background-color:black;
     color: white;
 }
 
