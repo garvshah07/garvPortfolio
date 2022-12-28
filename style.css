@@ -115,6 +115,7 @@ span {
 
 .cv-btn {
     line-height: 0.4em;
+
 }
 
 .main-btn {
@@ -123,6 +124,7 @@ span {
     text-decoration: none;
     border-radius: 10px;
     padding: 5px;
+    color: black;
 }
 
 .main-btn:hover {
